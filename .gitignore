@@ -1,0 +1,11 @@
+data/raw/
+data/interim/
+data/processed/
+models/checkpoints/*.pt
+models/exported/*.onnx
+models/exported/*.engine
+*.ipynb_checkpoints
+__pycache__/
+.venv/
+wandb/
+runs/
