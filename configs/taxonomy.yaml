@@ -1,0 +1,8 @@
+classes:
+  0: pipe_cylinder
+  1: entangled_net_debris
+  2: shipwreck
+  3: natural_seafloor
+names: ["pipe_cylinder", "entangled_net_debris", "shipwreck", "natural_seafloor"]
+nc: 4
+note: "unknown_anomaly is NOT a trained class — handled at inference time via OOD scoring"
